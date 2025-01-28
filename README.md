@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Diet-Gameboy
 - 👀 I’m interested in low level programming, integrated circuits, and Game Dev.
 - 💾 I’m currently learning LR35902 Assembly for the Gameboy.
-- 💞️ I’m looking to collaborate on Nintendo homebrew. ¯\\\_(ツ)\_/¯
+- 💞️ I’m looking to collaborate on Ti83+ Family and Nintendo homebrew. ¯\\\_(ツ)\_/¯
 - 📫 How to reach me phoenixqcushman@gmail.com
 
 <!---
